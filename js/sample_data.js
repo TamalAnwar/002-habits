@@ -22,5 +22,3 @@ let dailyTasks = [
       'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Hic quas odio at, quisquam, explicabo consequatur itaque enim consectetur mollitia consequuntur illum earum nulla? Ratione recusandae accusantium, saepe a eum in!'
   }
 ];
-
-export default dailyTasks;

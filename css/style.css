@@ -26,6 +26,10 @@ img {
   padding: 20px;
 }
 
+.back {
+  cursor: pointer;
+}
+
 #content {
   width: 600px;
   max-width: 100%;
@@ -59,4 +63,25 @@ img {
   background: #ffcdc8;
   margin: 20px 0;
   border-radius: 5px;
+}
+
+/* seperator between the tasks */
+
+.sep {
+  border-top: 4px dashed #dddddd;
+  margin-bottom: 20px;
+}
+
+.welldone {
+  text-align: center;
+}
+
+/* show completed tasks text */
+.showdone {
+  text-align: center;
+  font-weight: bold;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-top: 10px;
+  color: #666;
 }
