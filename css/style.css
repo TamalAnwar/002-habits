@@ -12,6 +12,11 @@ body {
   background: #e1eeff;
 }
 
+img {
+  max-width: 100%;
+  max-height: auto;
+}
+
 #container {
   max-width: 100%;
 }
@@ -27,4 +32,26 @@ body {
   margin: 0 auto;
   background: #ffffff;
   padding: 20px;
+  min-height: 90vh;
+}
+
+.task {
+  font-size: 2em;
+  padding: 20px 50px;
+  background: #ffcdc8;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.info {
+  font-size: 1.5em;
+}
+
+.done {
+  text-align: center;
+  font-size: 2em;
+  padding: 20px 50px;
+  background: #ffcdc8;
+  margin: 20px 0;
+  border-radius: 5px;
 }
