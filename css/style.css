@@ -32,7 +32,6 @@ img {
   margin: 0 auto;
   background: #ffffff;
   padding: 20px;
-  min-height: 90vh;
 }
 
 .task {
@@ -42,6 +41,11 @@ img {
   margin-bottom: 20px;
   border-radius: 5px;
   cursor: pointer;
+}
+
+/* Task complete */
+.complete {
+  background: #ddd;
 }
 
 .info {
