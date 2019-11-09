@@ -41,6 +41,7 @@ img {
   background: #ffcdc8;
   margin-bottom: 20px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .info {
